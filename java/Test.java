@@ -24,7 +24,6 @@ public void showInfo(){
 
 }
 
-
 public class Test {
     public static void main(String[] a  rgs) {
         Person p = new Person();
@@ -34,3 +33,4 @@ public class Test {
     }
     
 }
+
